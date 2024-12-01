@@ -1,5 +1,5 @@
-This program was develpoed for the sole purpose of testing my acquired skills. 
-As the name suggests it takes the sensor values from the MPU6050 and calculates the absoulte position of the board in XYZ coordinates.
-I've modified the code to use it as an controller outputting the changes in XYZ positions as 'wsad' movement.
-The additional buttons act as left and right mouse buttons.
-The microcontroller board used in this project is Arsuino Micro, capable of connecting to a computer as a HID device.
+This program was developed specifically to evaluate the skills I have acquired. As the name implies, it captures sensor data from the MPU6050 module and computes the absolute orientation of the board in terms of XYZ coordinates.
+
+The code has been customized to function as a controller, translating changes in XYZ positions into corresponding 'W', 'A', 'S', and 'D' movements. Furthermore, additional buttons on the setup are configured to emulate the left and right mouse buttons.
+
+The microcontroller employed in this project is the Arduino Micro, which has the capability to interface with a computer as a Human Interface Device (HID).
